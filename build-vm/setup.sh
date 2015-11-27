@@ -20,6 +20,6 @@ sudo wget -O /home/vagrant/mtsa-3.6.zip http://sourceforge.net/projects/mtsa/fil
 mkdir /home/vagrant/Desktop/mtsa-3.6/
 unzip /home/vagrant/mtsa-3.6.zip -d /home/vagrant/Desktop/mtsa-3.6/
 
-# Add Eclipse to startup applications before reloading VM
+# Add mtsa to startup applications before reloading VM
 mkdir /home/vagrant/.config/autostart/
 cp /home/vagrant/Desktop/ControllerSynthesis*.desktop /home/vagrant/.config/autostart/
