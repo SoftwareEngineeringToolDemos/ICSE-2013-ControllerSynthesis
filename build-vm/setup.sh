@@ -15,7 +15,7 @@ sudo chmod 777 /vagrant/*
 unzip /vagrant/Controller_Synthesis_VM_Desktop_Files.zip -d /home/vagrant/Desktop/
 chmod +x /home/vagrant/Desktop/*.desktop
 
-# Extract SnakeDemo Java Project to Eclipse workspace
+# Download and extract mtsa analyzer to desktop
 sudo wget -O /home/vagrant/mtsa-3.6.zip http://sourceforge.net/projects/mtsa/files/latest/download?source=files
 mkdir /home/vagrant/Desktop/mtsa-3.6/
 unzip /home/vagrant/mtsa-3.6.zip -d /home/vagrant/Desktop/mtsa-3.6/
