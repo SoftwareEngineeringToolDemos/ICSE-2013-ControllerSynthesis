@@ -11,6 +11,6 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for ControllerSynthesis you will find:
   - :white_check_mark: Source code
-  - :white_check_mark: The original tool (available)
+  - :white_check_mark: The [original] (https://github.com/SoftwareEngineeringToolDemos/ICSE-2013-ControllerSynthesis/blob/master/dist/mtsa.jar) tool (available)
 
 This repository was constructed by [Vishakha Narvekar] (https://github.com/vish4) and [Sumit Tomer] (https://github.com/sktomer) under the supervision of [Professor Emerson Murphy-Hill] (https://github.com/CaptainEmerson). Thanks to Mr. Sebastian Uchitel for his help in establishing this repository.
