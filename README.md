@@ -6,7 +6,7 @@ Tool for developing environment models, synthesising controllers efficiently, an
 This repository contains information related to the tool ControllerSynthesis presented at the International Conference on Software Engineering, 2013. The tool was originally presented in this [paper] (http://dl.acm.org/citation.cfm?id=2487002).
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
-  - The Official Project [Page] (http://sourceforge.net/projects/mtsa/), including source code
+  - The Official Project [Page] (http://sourceforge.net/projects/mtsa/), including download [page] (http://sourceforge.net/projects/mtsa/files/latest/download)
   - A [Video] (http://youtu.be/RnetgVihpV4) of the Tool  
 
 In this repository, for ControllerSynthesis you will find:
