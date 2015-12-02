@@ -10,7 +10,7 @@ This repository _is not_ the original repository for this tool. Here are some li
   - A [Video] (http://youtu.be/RnetgVihpV4) of the Tool  
 
 In this repository, for ControllerSynthesis you will find:
-  - :white_check_mark: [Source code] (mtsa-code/) (available) (imported from Sourceforge)
+  - :white_check_mark: [Source code] (mtsa-code/) (available) (imported from sourceforge)
   - :white_check_mark: [The original tool] (dist/mtsa.jar) (available)
   - :white_check_mark: Virtual machine containing tool (available)
 
