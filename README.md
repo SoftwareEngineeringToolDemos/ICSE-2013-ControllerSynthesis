@@ -12,6 +12,6 @@ This repository _is not_ the original repository for this tool. Here are some li
 In this repository, for ControllerSynthesis you will find:
   - :white_check_mark: [Source code] (mtsa-code/) (available)
   - :white_check_mark: [The original tool] (dist/mtsa.jar) (available)
-  - :white_check_mark: [Virtual machine containing tool] (https://drive.google.com/a/ncsu.edu/file/d/0B05PnJKX_BJBbHFqUTVqSHRJWU0/view?usp=sharing) (available)
+  - :white_check_mark: [Virtual machine containing tool](http://go.ncsu.edu/SE-tool-VMs)
 
 This repository was constructed by [Vishakha Narvekar] (https://github.com/vish4) and [Sumit Tomer] (https://github.com/sktomer) under the supervision of [Professor Emerson Murphy-Hill] (https://github.com/CaptainEmerson). Thanks to Mr. Sebastian Uchitel for his help in establishing this repository.
